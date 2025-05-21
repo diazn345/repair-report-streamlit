@@ -1,0 +1,9 @@
+streamlit
+pandas
+gspread
+oauth2client
+matplotlib
+streamlit-auth0
+opencv-python
+pyzbar
+streamlit-webrtc
